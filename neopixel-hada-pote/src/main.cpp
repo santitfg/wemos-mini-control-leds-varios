@@ -2,7 +2,7 @@
 #include <Adafruit_NeoPixel.h> // libreria pixel led
 
 // #define PIN_PIXEL_LED 6 // pin donde conecto luces
-#define CANTIDAD_LEDS 7 // cantidad de pixel leds
+#define CANTIDAD_LEDS 21 // cantidad de pixel leds
 
 #define ESTADO_APAGADO 0.0
 #define ESTADO_INICIAL 1.0f
